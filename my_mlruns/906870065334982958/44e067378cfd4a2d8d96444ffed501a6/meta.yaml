@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Github\Productos_de_Datos\PRE-08-mlflow-tracking-local-JuanTA97\my_mlruns/906870065334982958/44e067378cfd4a2d8d96444ffed501a6/artifacts
+end_time: 1748100265162
+entry_point_name: ''
+experiment_id: '906870065334982958'
+lifecycle_stage: active
+run_id: 44e067378cfd4a2d8d96444ffed501a6
+run_name: knn_ce0fdff3
+run_uuid: 44e067378cfd4a2d8d96444ffed501a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748100265088
+status: 3
+tags: []
+user_id: ASUS
